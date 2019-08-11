@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Songs</string>
+    <string name="type_name">Song Name</string>
+    <string name="type_artist">Artist</string>
+    <string name="type_album">Album</string>
+    <string name="insert">Save</string>
+    <string name="update">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view_list">View</string>
+    <string name="type_delete_or_update">Write ID to delete or update</string>
+</resources>
